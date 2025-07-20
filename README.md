@@ -47,7 +47,8 @@ Tailwind CSS is the worst… - (Channel: Fireship)
 
 I WISH I Knew These Tailwind Tips Earlier - (Channel: Theo - t3․gg)  
 - https://www.youtube.com/watch?v=QBajvZaWLXs  
- 
-  
+
+10 Tailwind Tricks You NEED To Know! - (Channel: Ravi - Perfect Base)   
+- https://www.youtube.com/watch?v=aSlK3GhRuXA    
   
 -----
