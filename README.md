@@ -29,4 +29,7 @@ TailwindCSS official site...
 
 ## YouTube Videos
 
+Tailwind in 100 Seconds - (Channel: Fireship)  
+- https://www.youtube.com/watch?v=mr15Xzb1Ook  
+  
 -----
