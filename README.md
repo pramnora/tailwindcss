@@ -30,6 +30,9 @@ TailwindCSS official site...
 ## YouTube Videos
 
 Tailwind in 100 Seconds - (Channel: Fireship)  
-- https://www.youtube.com/watch?v=mr15Xzb1Ook  
+- https://www.youtube.com/watch?v=mr15Xzb1Ook
+
+Tailwind CSS is the worst… - (Channel: Fireship)  
+- https://www.youtube.com/watch?v=lHZwlzOUOZ4  
   
 -----
