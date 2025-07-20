@@ -37,7 +37,10 @@ Tailwind CSS is the worst… - (Channel: Fireship)
 
 10 Tailwind Classes I Wish I Knew Earlier - (Channel: Web Dev Simplified)   
 - https://www.youtube.com/watch?v=x1RJ5Q09PqM
-- 
+
+I WISH I Knew These Tailwind Tips Earlier - (Channel: Theo - t3․gg)  
+- https://www.youtube.com/watch?v=QBajvZaWLXs  
+ 
   
   
 -----
