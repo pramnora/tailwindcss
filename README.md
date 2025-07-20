@@ -7,12 +7,20 @@
 
 ## Introduction
 
-Just *started* working with using TailwindCSS...by following a Skillshare course.
+Just *started* working with using TailwindCSS...by following a Skillshare course.  
 
-- https://www.skillshare.com/en/classes/introduction-to-tailwind-css/1784420695/projects
+- https://www.skillshare.com/en/classes/introduction-to-tailwind-css/1784420695/projects  
 
-So far I'm finding using TailwindCSS is really easy to set up/understand/and, just generally get going.
+So far I'm finding using TailwindCSS is really easy to set up/understand/and, just generally get going.  
 
-The CDN/Content Delivery Network external CSS file I'm using is:
+The CDN/Content Delivery Network external CSS file I'm using is:  
 
-> <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script> 
+> <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>   
+
+-----
+
+## Links
+
+TailwindCSS official site...    
+- https://tailwindcss.com  
+- https://tailwindcss.com/docs/installation/play-cdn  
