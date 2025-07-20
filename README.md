@@ -50,5 +50,8 @@ I WISH I Knew These Tailwind Tips Earlier - (Channel: Theo - t3․gg)
 
 10 Tailwind Tricks You NEED To Know! - (Channel: Ravi - Perfect Base)   
 - https://www.youtube.com/watch?v=aSlK3GhRuXA    
+
+Ultimate Tailwind CSS Tutorial // Build a Discord-inspired Animated Navbar - (Channel: Fireship)  
+- https://www.youtube.com/watch?v=pfaSUYaSgRo  
   
 -----
