@@ -58,7 +58,7 @@ Ultimate Tailwind CSS Tutorial // Build a Discord-inspired Animated Navbar - (Ch
 
 ## YouTube Videos (shorts)  
 
-3 Free Tailwind CSS Awesome Resources - (Channel: )  
+3 Free Tailwind CSS Awesome Resources - (Channel: @creativetimofficial)  
 - https://www.youtube.com/shorts/ESfDVsjJKtM  
 
 
