@@ -1,7 +1,7 @@
 # tailwindcss
 
 **Created**: *Sun 20th July 2025 02:45 AM GMT*  
-**Updated**: *Sun 20th July 2025 04:21 AM GMT*  
+**Updated**: *Tue 22th July 2025 16:36 PM GMT*  
 
 This repository files can be seen live/and, interacted with here:  
 - https://pr-tailwindcss.netlify.app  
@@ -55,3 +55,10 @@ Ultimate Tailwind CSS Tutorial // Build a Discord-inspired Animated Navbar - (Ch
 - https://www.youtube.com/watch?v=pfaSUYaSgRo  
   
 -----
+
+## YouTube Videos (shorts)  
+
+3 Free Tailwind CSS Awesome Resources - (Channel: )  
+- https://www.youtube.com/shorts/ESfDVsjJKtM  
+
+
